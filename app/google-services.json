@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "889230274805",
+    "firebase_url": "https://help-funtube.firebaseio.com",
+    "project_id": "help-funtube",
+    "storage_bucket": "help-funtube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889230274805:android:927fba9c96e2de317f55bc",
+        "android_client_info": {
+          "package_name": "com.funtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889230274805-1moi8qlu6o09kj9qh1bfs1qp2eidrguc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funtube",
+            "certificate_hash": "068f36122ba96db681813acd74ca57a38e14188b"
+          }
+        },
+        {
+          "client_id": "889230274805-5uo1382adel25athvl79bj9gb8bg3sjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funtube",
+            "certificate_hash": "4e9f51ca32fbd7b9c993b3173d80460e47164fd5"
+          }
+        },
+        {
+          "client_id": "889230274805-t8u0g6ant4h0k9us3l96jmsn7b3tk268.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuA-GZVAIgZG4LhKe0GQDfrOp_t07la8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889230274805-t8u0g6ant4h0k9us3l96jmsn7b3tk268.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889230274805:android:48d96f68ebb6d1a07f55bc",
+        "android_client_info": {
+          "package_name": "com.funtubesupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889230274805-14nbq3j1aos2bpbmgj554imt6c7id4j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funtubesupport",
+            "certificate_hash": "4e9f51ca32fbd7b9c993b3173d80460e47164fd5"
+          }
+        },
+        {
+          "client_id": "889230274805-t8u0g6ant4h0k9us3l96jmsn7b3tk268.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuA-GZVAIgZG4LhKe0GQDfrOp_t07la8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889230274805-t8u0g6ant4h0k9us3l96jmsn7b3tk268.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Gavras:GIFView:v1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GIFView-v1.2.aar/ac7aad877bdce93815e91dc2444584a6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GIFView-v1.2.aar/ac7aad877bdce93815e91dc2444584a6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Gavras/GIFView/v1.2/bbdae427fab29b5b96c2f23df5142e7802d1722f/GIFView-v1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

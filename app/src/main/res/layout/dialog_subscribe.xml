@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="#45000000"
+    android:id="@+id/relativeLayout_close_rate_gialog"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/comment_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:id="@+id/LinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/dialog_content"
+            android:orientation="vertical"
+            android:layout_below="@+id/LinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Activate YouTube!"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginStart="13dp"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:textStyle="bold"
+                android:textColor="@color/primary_text_light"
+                android:padding="13dp"
+                android:text="With FunTube, YouTube channel promotions has been made easy. Promote your videos worldwide on FunTube. Get views, subscribers, watch times and likes from your interested audience.\nFeatures:\n
+1. Unlimited Unique viewers\n
+2. Unlimited Videos promotion (No videos upload limit)\n
+3. Your videos will be available until your subscription expires so you will get most with your budget.\n\n
+                                 How its Works\n\n
+1. Get subscription (1 Week, 1 Month or 3 Months).\n
+2. Click on 'Upload YouTube Video'.\n
+3. Just Paste your video URL, thumbnail and click Upload.
+"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_below="@id/dialog_content"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+
+                android:layout_centerHorizontal="true"
+                android:background="#ff7300"
+                android:layout_width="match_parent"
+                android:layout_height="45dp">
+                <TextView
+                    android:id="@+id/text_view_go_pro"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:textAlignment="center"
+                    android:text="SUBSCRIBE NOW"
+                    android:textColor="@color/white"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.shalskar:PeekAndPop:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PeekAndPop-1.1.0.aar/84ecb4c0197224a166726b3697fcdc29/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PeekAndPop-1.1.0.aar/84ecb4c0197224a166726b3697fcdc29/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PeekAndPop-1.1.0.aar/84ecb4c0197224a166726b3697fcdc29/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.shalskar/PeekAndPop/1.1.0/c985c14b130f65769c7c24030f7c3cbc7bb43bf/PeekAndPop-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
